@@ -100,7 +100,3 @@ backend_usos_ia/
 
 > **Observação:** os comandos pressupõem uma implementação com Express e o driver `mysql2`. A configuração pode variar conforme o código desenvolvido.
 
-
-
-**Projeto acadêmico — SENAI | Desenvolvimento de Sistemas**  
-**Tema:** catalogação e monitoramento de aplicações de Inteligência Artificial.
